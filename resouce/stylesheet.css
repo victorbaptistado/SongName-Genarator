@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+body{
+    margin: 1%;
+}
+
+.flex{
+    display: flex;
+}
+
+#generatorDisplay h3{
+    margin-right: 2%;
+}
